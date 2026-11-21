@@ -1,0 +1,968 @@
+Order_ID,Customer_ID,Order_DateTime,Item,Category,Item_Quantity,Item_Price,Order_Type
+1001,C103,2026-10-20 22:42:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1002,C021,2026-10-01 12:21:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1003,C018,2026-10-04 21:13:00,Masala Chai,Beverages,4.0,50.0,Delivery
+1004,C002,2026-10-30 17:41:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1005,C082,2026-10-15 20:25:00,Veg Biryani,Main Course,3.0,240.0,Delivery
+1005,C082,2026-10-15 20:25:00,Veg Spring Roll,Starters,3.0,160.0,Delivery
+1005,C082,2026-10-15 20:25:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1005,C082,2026-10-15 20:25:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1006,C005,2026-10-10 14:40:00,Fresh Lime Soda,Beverages,3.0,70.0,Delivery
+1007,C101,2026-10-15 19:00:00,Cold Coffee,Beverages,3.0,120.0,Delivery
+1007,C101,2026-10-15 19:00:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1007,C101,2026-10-15 19:00:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1008,C143,2026-10-11 11:12:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1008,C143,2026-10-11 11:12:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1008,C143,2026-10-11 11:12:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1009,C092,2026-10-25 13:32:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1009,C092,2026-10-25 13:32:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1009,C092,2026-10-25 13:32:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1010,C059,2026-10-22 11:23:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1011,C002,2026-10-02 16:22:00,Cold Coffee,Beverages,3.0,120.0,Dine-In
+1012,C038,2026-10-24 16:33:00,Butter Chicken,Main Course,3.0,340.0,Takeaway
+1012,C038,2026-10-24 16:33:00,Fresh Lime Soda,Beverages,3.0,70.0,Takeaway
+1012,C038,2026-10-24 16:33:00,Veg Spring Roll,Starters,4.0,160.0,Takeaway
+1013,C096,2026-10-07 11:32:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1013,C096,2026-10-07 11:32:00,Butter Chicken,Main Course,2.0,340.0,Dine-In
+1013,C096,2026-10-07 11:32:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1014,C060,2026-10-17 12:47:00,Veg Spring Roll,Starters,4.0,160.0,Delivery
+1015,C104,2026-10-20 18:47:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1015,C104,2026-10-20 18:47:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1015,C104,2026-10-20 18:47:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1016,C128,2026-10-08 20:16:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1016,C128,2026-10-08 20:16:00,Dal Makhani,Main Course,3.0,220.0,Dine-In
+1016,C128,2026-10-08 20:16:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1016,C128,2026-10-08 20:16:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1017,C030,2026-10-01 17:32:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1018,C095,2026-10-03 23:51:00,,Beverages,,,Dine-In
+1019,C127,2026-10-27 12:25:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1020,C135,2026-10-25 18:19:00,Butter Chicken,Main Course,2.0,340.0,Takeaway
+1020,C135,2026-10-25 18:19:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1020,C135,2026-10-25 18:19:00,Garlic Naan,Breads,2.0,50.0,Takeaway
+1020,C135,2026-10-25 18:19:00,Paneer Tikka,Starters,2.0,250.0,Takeaway
+1021,C058,2026-10-22 12:41:00,Veg Biryani,Main Course,4.0,240.0,Delivery
+1021,C058,2026-10-22 12:41:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1022,C094,2026-10-15 18:39:00,Veg Biryani,Main Course,2.0,240.0,Delivery
+1023,C117,2026-10-30 20:08:00,Ice Cream,Desserts,4.0,110.0,Takeaway
+1024,C069,2026-10-22 19:02:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1024,C069,2026-10-22 19:02:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1024,C069,2026-10-22 19:02:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1024,C069,2026-10-22 19:02:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1025,C033,2026-10-30 16:22:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1025,C033,2026-10-30 16:22:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1026,C128,2026-10-27 19:11:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1026,C128,2026-10-27 19:11:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1026,C128,2026-10-27 19:11:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1026,C128,2026-10-27 19:11:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1027,C035,2026-10-23 10:07:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1027,C035,2026-10-23 10:07:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1028,C021,2026-10-29 12:09:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1028,C021,2026-10-29 12:09:00,Cold Coffee,Beverages,3.0,120.0,Dine-In
+1028,C021,2026-10-29 12:09:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1028,C021,2026-10-29 12:09:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1029,C105,2026-10-30 21:19:00,Veg Biryani,Main Course,4.0,240.0,Delivery
+1029,C105,2026-10-30 21:19:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1030,C111,2026-10-16 16:34:00,Paneer Tikka,Starters,3.0,250.0,Takeaway
+1030,C111,2026-10-16 16:34:00,Cold Coffee,Beverages,2.0,120.0,Takeaway
+1030,C111,2026-10-16 16:34:00,Chicken Wings,Starters,1.0,280.0,Takeaway
+1030,C111,2026-10-16 16:34:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1031,C075,2026-10-18 22:08:00,Butter Chicken,Main Course,2.0,340.0,Delivery
+1031,C075,2026-10-18 22:08:00,Ice Cream,Desserts,3.0,110.0,Delivery
+1031,C075,2026-10-18 22:08:00,Dal Makhani,Main Course,4.0,220.0,Delivery
+1031,C075,2026-10-18 22:08:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1032,C109,2026-10-01 20:16:00,Paneer Tikka,Starters,3.0,250.0,Delivery
+1033,C141,2026-10-18 16:57:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1033,C141,2026-10-18 16:57:00,Veg Spring Roll,Starters,2.0,160.0,Delivery
+1033,C141,2026-10-18 16:57:00,Butter Chicken,Main Course,2.0,340.0,Delivery
+1033,C141,2026-10-18 16:57:00,Butter Naan,Breads,4.0,40.0,Delivery
+1034,C061,2026-10-15 20:53:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1034,C061,2026-10-15 20:53:00,Fresh Lime Soda,Beverages,1.0,70.0,Delivery
+1034,C061,2026-10-15 20:53:00,,Desserts,,,Delivery
+1034,C061,2026-10-15 20:53:00,Butter Naan,Breads,2.0,40.0,Delivery
+1035,C003,2026-10-16 19:10:00,Paneer Tikka,Starters,2.0,250.0,Dine-In
+1035,C003,2026-10-16 19:10:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1035,C003,2026-10-16 19:10:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1035,C003,2026-10-16 19:10:00,Masala Chai,Beverages,1.0,50.0,Dine-In
+1036,C041,2026-10-04 23:53:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1037,C109,2026-10-05 09:32:00,Chicken Biryani,Main Course,3.0,300.0,Delivery
+1037,C109,2026-10-05 09:32:00,Dal Makhani,Main Course,3.0,220.0,Delivery
+1038,C129,2026-10-21 10:05:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1039,C110,2026-10-01 22:12:00,Butter Chicken,Main Course,4.0,340.0,Dine-In
+1040,C133,2026-10-30 20:56:00,Paneer Tikka,Starters,3.0,250.0,Takeaway
+1040,C133,2026-10-30 20:56:00,Gulab Jamun,Desserts,3.0,90.0,Takeaway
+1040,C133,2026-10-30 20:56:00,Garlic Naan,Breads,3.0,50.0,Takeaway
+1041,C052,2026-10-25 17:23:00,Cold Coffee,Beverages,2.0,120.0,Delivery
+1041,C052,2026-10-25 17:23:00,Veg Biryani,Main Course,1.0,240.0,Delivery
+1042,C126,2026-10-11 18:10:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1043,C061,2026-10-26 12:20:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1043,C061,2026-10-26 12:20:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1043,C061,2026-10-26 12:20:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1043,C061,2026-10-26 12:20:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1044,C073,2026-10-26 19:56:00,Veg Spring Roll,Starters,3.0,160.0,Takeaway
+1044,C073,2026-10-26 19:56:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1044,C073,2026-10-26 19:56:00,,Main Course,,,Takeaway
+1044,C073,2026-10-26 19:56:00,Masala Chai,Beverages,2.0,50.0,Takeaway
+1045,C028,2026-10-23 17:01:00,Paneer Tikka,Starters,3.0,250.0,Delivery
+1045,C028,2026-10-23 17:01:00,,Breads,,,Delivery
+1046,C015,2026-10-25 19:27:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1047,C146,2026-10-15 18:21:00,Ice Cream,Desserts,4.0,110.0,Takeaway
+1047,C146,2026-10-15 18:21:00,Masala Chai,Beverages,3.0,50.0,Takeaway
+1047,C146,2026-10-15 18:21:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1047,C146,2026-10-15 18:21:00,Chicken Biryani,Main Course,2.0,300.0,Takeaway
+1048,C121,2026-10-01 08:20:00,Paneer Tikka,Starters,2.0,250.0,Dine-In
+1048,C121,2026-10-01 08:20:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1048,C121,2026-10-01 08:20:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1049,C075,2026-10-04 08:53:00,Paneer Tikka,Starters,1.0,250.0,Dine-In
+1049,C075,2026-10-04 08:53:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1049,C075,2026-10-04 08:53:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1049,C075,2026-10-04 08:53:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1050,C047,2026-10-01 18:37:00,Cold Coffee,Beverages,4.0,120.0,Takeaway
+1050,C047,2026-10-01 18:37:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1050,C047,2026-10-01 18:37:00,Garlic Naan,Breads,4.0,50.0,Takeaway
+1051,C065,2026-10-05 08:08:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1051,C065,2026-10-05 08:08:00,Masala Chai,Beverages,4.0,50.0,Takeaway
+1051,C065,2026-10-05 08:08:00,Butter Naan,Breads,4.0,40.0,Takeaway
+1051,C065,2026-10-05 08:08:00,Garlic Naan,Breads,2.0,50.0,Takeaway
+1052,C060,2026-10-29 11:40:00,Butter Naan,Breads,1.0,40.0,Delivery
+1052,C060,2026-10-29 11:40:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1052,C060,2026-10-29 11:40:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1052,C060,2026-10-29 11:40:00,Paneer Tikka,Starters,4.0,250.0,Delivery
+1053,C039,2026-10-08 14:50:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1054,C067,2026-10-07 19:41:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1054,C067,2026-10-07 19:41:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1054,C067,2026-10-07 19:41:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1055,C066,2026-10-10 17:09:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1055,C066,2026-10-10 17:09:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1056,C036,2026-10-26 12:04:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1056,C036,2026-10-26 12:04:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1057,C111,2026-10-08 20:11:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1057,C111,2026-10-08 20:11:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1057,C111,2026-10-08 20:11:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1057,C111,2026-10-08 20:11:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1058,C011,2026-10-23 11:36:00,Butter Naan,Breads,4.0,40.0,Delivery
+1058,C011,2026-10-23 11:36:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1059,C117,2026-10-26 13:51:00,Garlic Naan,Breads,4.0,50.0,Takeaway
+1059,C117,2026-10-26 13:51:00,Gulab Jamun,Desserts,1.0,90.0,Takeaway
+1059,C117,2026-10-26 13:51:00,Butter Chicken,Main Course,3.0,340.0,Takeaway
+1060,C088,2026-10-01 14:42:00,Masala Chai,Beverages,1.0,50.0,Takeaway
+1060,C088,2026-10-01 14:42:00,Fresh Lime Soda,Beverages,3.0,70.0,Takeaway
+1060,C088,2026-10-01 14:42:00,Ice Cream,Desserts,1.0,110.0,Takeaway
+1060,C088,2026-10-01 14:42:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1061,C141,2026-10-30 19:58:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1061,C141,2026-10-30 19:58:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1062,C063,2026-10-04 11:28:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1062,C063,2026-10-04 11:28:00,Cold Coffee,Beverages,3.0,120.0,Dine-In
+1062,C063,2026-10-04 11:28:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1063,C072,2026-10-22 13:36:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1064,C055,2026-10-16 10:09:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1064,C055,2026-10-16 10:09:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1064,C055,2026-10-16 10:09:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1065,C119,2026-10-12 20:36:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1065,C119,2026-10-12 20:36:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1066,C114,2026-10-19 17:08:00,Cold Coffee,Beverages,3.0,120.0,Takeaway
+1067,C070,2026-10-18 17:41:00,Ice Cream,Desserts,2.0,110.0,Takeaway
+1067,C070,2026-10-18 17:41:00,Dal Makhani,Main Course,3.0,220.0,Takeaway
+1068,C098,2026-10-12 18:52:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1069,C149,2026-10-11 12:35:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1069,C149,2026-10-11 12:35:00,Dal Makhani,Main Course,3.0,220.0,Delivery
+1069,C149,2026-10-11 12:35:00,Masala Chai,Beverages,4.0,50.0,Delivery
+1070,C081,2026-10-30 22:42:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1070,C081,2026-10-30 22:42:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1071,C131,2026-10-18 19:43:00,Veg Biryani,Main Course,3.0,240.0,Delivery
+1071,C131,2026-10-18 19:43:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1072,C081,2026-10-23 19:15:00,Dal Makhani,Main Course,2.0,220.0,Delivery
+1073,C135,2026-10-14 11:06:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1073,C135,2026-10-14 11:06:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1073,C135,2026-10-14 11:06:00,Butter Chicken,Main Course,4.0,340.0,Dine-In
+1073,C135,2026-10-14 11:06:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1074,C108,2026-10-28 17:02:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1074,C108,2026-10-28 17:02:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1074,C108,2026-10-28 17:02:00,Veg Spring Roll,Starters,2.0,160.0,Takeaway
+1074,C108,2026-10-28 17:02:00,Ice Cream,Desserts,4.0,110.0,Takeaway
+1075,C126,2026-10-02 09:41:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1075,C126,2026-10-02 09:41:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1075,C126,2026-10-02 09:41:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1076,C121,2026-10-10 10:38:00,Ice Cream,Desserts,2.0,110.0,Takeaway
+1077,C073,2026-10-15 15:23:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1077,C073,2026-10-15 15:23:00,Dal Makhani,Main Course,3.0,220.0,Dine-In
+1077,C073,2026-10-15 15:23:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1078,C004,2026-10-27 15:28:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1079,C054,2026-10-15 11:08:00,Chicken Biryani,Main Course,1.0,300.0,Delivery
+1079,C054,2026-10-15 11:08:00,Butter Naan,Breads,4.0,40.0,Delivery
+1080,C125,2026-10-15 09:03:00,Veg Biryani,Main Course,1.0,240.0,Takeaway
+1080,C125,2026-10-15 09:03:00,,Main Course,,,Takeaway
+1081,C139,2026-10-27 12:59:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1081,C139,2026-10-27 12:59:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1081,C139,2026-10-27 12:59:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1081,C139,2026-10-27 12:59:00,Paneer Tikka,Starters,2.0,250.0,Dine-In
+1082,C093,2026-10-19 20:55:00,Veg Spring Roll,Starters,3.0,160.0,Takeaway
+1082,C093,2026-10-19 20:55:00,Chicken Biryani,Main Course,1.0,300.0,Takeaway
+1082,C093,2026-10-19 20:55:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1082,C093,2026-10-19 20:55:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1083,C100,2026-10-27 19:06:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1084,C012,2026-10-07 11:12:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1085,C060,2026-10-15 21:28:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1085,C060,2026-10-15 21:28:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1085,C060,2026-10-15 21:28:00,Cold Coffee,Beverages,2.0,120.0,Delivery
+1085,C060,2026-10-15 21:28:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1086,C029,2026-10-12 19:34:00,Butter Naan,Breads,4.0,40.0,Takeaway
+1086,C029,2026-10-12 19:34:00,Cold Coffee,Beverages,1.0,120.0,Takeaway
+1086,C029,2026-10-12 19:34:00,Dal Makhani,Main Course,3.0,220.0,Takeaway
+1086,C029,2026-10-12 19:34:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1087,C039,2026-10-15 19:28:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1087,C039,2026-10-15 19:28:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1087,C039,2026-10-15 19:28:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1087,C039,2026-10-15 19:28:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1088,C147,2026-10-25 16:58:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1088,C147,2026-10-25 16:58:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1088,C147,2026-10-25 16:58:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1088,C147,2026-10-25 16:58:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1089,C079,2026-10-27 20:51:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1090,C063,2026-10-22 18:52:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1090,C063,2026-10-22 18:52:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1090,C063,2026-10-22 18:52:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1090,C063,2026-10-22 18:52:00,Cold Coffee,Beverages,4.0,120.0,Takeaway
+1091,C011,2026-10-22 19:40:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1092,C077,2026-10-20 14:38:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1092,C077,2026-10-20 14:38:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1092,C077,2026-10-20 14:38:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1093,C103,2026-10-09 19:07:00,Butter Chicken,Main Course,1.0,340.0,Delivery
+1093,C103,2026-10-09 19:07:00,Paneer Tikka,Starters,4.0,250.0,Delivery
+1093,C103,2026-10-09 19:07:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1093,C103,2026-10-09 19:07:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1094,C012,2026-10-23 18:24:00,Ice Cream,Desserts,2.0,110.0,Delivery
+1094,C012,2026-10-23 18:24:00,Paneer Tikka,Starters,1.0,250.0,Delivery
+1095,C096,2026-10-24 22:02:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1095,C096,2026-10-24 22:02:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1095,C096,2026-10-24 22:02:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1096,C020,2026-10-28 09:48:00,Paneer Tikka,Starters,2.0,250.0,Takeaway
+1097,C125,2026-10-12 15:17:00,Butter Chicken,Main Course,2.0,340.0,Takeaway
+1097,C125,2026-10-12 15:17:00,Garlic Naan,Breads,1.0,50.0,Takeaway
+1097,C125,2026-10-12 15:17:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1098,C062,2026-10-22 20:46:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1098,C062,2026-10-22 20:46:00,Gulab Jamun,Desserts,3.0,90.0,Takeaway
+1098,C062,2026-10-22 20:46:00,,Breads,,,Takeaway
+1099,C045,2026-10-23 16:10:00,Veg Biryani,Main Course,4.0,240.0,Delivery
+1099,C045,2026-10-23 16:10:00,Chicken Biryani,Main Course,1.0,300.0,Delivery
+1100,C107,2026-10-05 14:11:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1101,C119,2026-10-03 16:52:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1102,C039,2026-10-24 17:49:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1102,C039,2026-10-24 17:49:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1103,C086,2026-10-15 18:54:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1103,C086,2026-10-15 18:54:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1103,C086,2026-10-15 18:54:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1104,C147,2026-10-16 20:47:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1104,C147,2026-10-16 20:47:00,Chicken Wings,Starters,1.0,280.0,Takeaway
+1105,C068,2026-10-02 15:45:00,Cold Coffee,Beverages,4.0,120.0,Delivery
+1105,C068,2026-10-02 15:45:00,Dal Makhani,Main Course,2.0,220.0,Delivery
+1105,C068,2026-10-02 15:45:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1106,C143,2026-10-21 15:28:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1107,C085,2026-10-26 22:01:00,,Starters,,,Dine-In
+1108,C108,2026-10-27 17:20:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1108,C108,2026-10-27 17:20:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1108,C108,2026-10-27 17:20:00,Masala Chai,Beverages,1.0,50.0,Dine-In
+1109,C052,2026-10-14 13:46:00,Chicken Biryani,Main Course,2.0,300.0,Takeaway
+1109,C052,2026-10-14 13:46:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1109,C052,2026-10-14 13:46:00,Garlic Naan,Breads,1.0,50.0,Takeaway
+1109,C052,2026-10-14 13:46:00,Butter Chicken,Main Course,3.0,340.0,Takeaway
+1110,C071,2026-10-24 19:41:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1110,C071,2026-10-24 19:41:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1110,C071,2026-10-24 19:41:00,,Beverages,,,Delivery
+1110,C071,2026-10-24 19:41:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1111,C026,2026-10-09 18:23:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1112,C146,2026-10-19 18:32:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1113,C011,2026-10-10 12:12:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1113,C011,2026-10-10 12:12:00,Dal Makhani,Main Course,3.0,220.0,Takeaway
+1114,C024,2026-10-28 20:03:00,Ice Cream,Desserts,3.0,110.0,Delivery
+1114,C024,2026-10-28 20:03:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1115,C013,2026-10-17 20:59:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1115,C013,2026-10-17 20:59:00,Chicken Biryani,Main Course,3.0,300.0,Delivery
+1115,C013,2026-10-17 20:59:00,Ice Cream,Desserts,4.0,110.0,Delivery
+1116,C002,2026-10-06 17:33:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1116,C002,2026-10-06 17:33:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1116,C002,2026-10-06 17:33:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1116,C002,2026-10-06 17:33:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1117,C144,2026-10-12 23:02:00,Masala Chai,Beverages,2.0,50.0,Delivery
+1118,C150,2026-10-18 19:31:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1118,C150,2026-10-18 19:31:00,Masala Chai,Beverages,1.0,50.0,Dine-In
+1118,C150,2026-10-18 19:31:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1118,C150,2026-10-18 19:31:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1119,C075,2026-10-03 15:22:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1119,C075,2026-10-03 15:22:00,Cold Coffee,Beverages,3.0,120.0,Delivery
+1120,C134,2026-10-03 19:51:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1120,C134,2026-10-03 19:51:00,Paneer Tikka,Starters,1.0,250.0,Delivery
+1120,C134,2026-10-03 19:51:00,Fresh Lime Soda,Beverages,1.0,70.0,Delivery
+1121,C054,2026-10-01 21:13:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1121,C054,2026-10-01 21:13:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1121,C054,2026-10-01 21:13:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1121,C054,2026-10-01 21:13:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1122,C012,2026-10-28 13:13:00,Masala Chai,Beverages,2.0,50.0,Delivery
+1123,C126,2026-10-11 19:30:00,Butter Naan,Breads,4.0,40.0,Takeaway
+1124,C103,2026-10-08 20:38:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1125,C014,2026-10-07 19:21:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1125,C014,2026-10-07 19:21:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1125,C014,2026-10-07 19:21:00,Dal Makhani,Main Course,1.0,220.0,Delivery
+1126,C082,2026-10-05 22:35:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1127,C042,2026-10-21 22:48:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1128,C034,2026-10-08 21:07:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1129,C017,2026-10-05 17:39:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1129,C017,2026-10-05 17:39:00,Butter Chicken,Main Course,4.0,340.0,Dine-In
+1130,C008,2026-10-10 08:31:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1131,C122,2026-10-23 09:49:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1131,C122,2026-10-23 09:49:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1131,C122,2026-10-23 09:49:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1131,C122,2026-10-23 09:49:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1132,C059,2026-10-14 16:24:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1132,C059,2026-10-14 16:24:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1132,C059,2026-10-14 16:24:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1132,C059,2026-10-14 16:24:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1133,C149,2026-10-30 20:39:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1133,C149,2026-10-30 20:39:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1133,C149,2026-10-30 20:39:00,Paneer Tikka,Starters,3.0,250.0,Takeaway
+1134,C050,2026-10-15 17:23:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1134,C050,2026-10-15 17:23:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1135,C136,2026-10-10 17:07:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1136,C066,2026-10-09 14:08:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1136,C066,2026-10-09 14:08:00,Ice Cream,Desserts,2.0,110.0,Takeaway
+1137,C056,2026-10-19 23:03:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1137,C056,2026-10-19 23:03:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1137,C056,2026-10-19 23:03:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1137,C056,2026-10-19 23:03:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1138,C020,2026-10-17 18:03:00,Paneer Tikka,Starters,4.0,250.0,Takeaway
+1138,C020,2026-10-17 18:03:00,Masala Chai,Beverages,3.0,50.0,Takeaway
+1138,C020,2026-10-17 18:03:00,Garlic Naan,Breads,1.0,50.0,Takeaway
+1139,C063,2026-10-14 11:23:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1139,C063,2026-10-14 11:23:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1140,C047,2026-10-11 19:53:00,Chicken Wings,Starters,2.0,280.0,Takeaway
+1141,C003,2026-10-13 18:29:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1142,C049,2026-10-21 16:04:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1142,C049,2026-10-21 16:04:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1143,C057,2026-10-20 18:35:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1143,C057,2026-10-20 18:35:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1143,C057,2026-10-20 18:35:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1143,C057,2026-10-20 18:35:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1144,C107,2026-10-20 18:42:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1144,C107,2026-10-20 18:42:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1144,C107,2026-10-20 18:42:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1144,C107,2026-10-20 18:42:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1145,C058,2026-10-21 12:02:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1146,C127,2026-10-10 10:21:00,,Beverages,,,Takeaway
+1147,C065,2026-10-10 11:01:00,Butter Chicken,Main Course,4.0,340.0,Takeaway
+1148,C063,2026-10-17 11:06:00,,Breads,,,Delivery
+1148,C063,2026-10-17 11:06:00,Paneer Tikka,Starters,4.0,250.0,Delivery
+1149,C058,2026-10-28 19:01:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1149,C058,2026-10-28 19:01:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1150,C051,2026-10-11 11:09:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1150,C051,2026-10-11 11:09:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1150,C051,2026-10-11 11:09:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1150,C051,2026-10-11 11:09:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1151,C109,2026-10-03 21:42:00,Garlic Naan,Breads,3.0,50.0,Delivery
+1152,C046,2026-10-23 22:44:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1153,C148,2026-10-02 11:04:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1153,C148,2026-10-02 11:04:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1153,C148,2026-10-02 11:04:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1153,C148,2026-10-02 11:04:00,Butter Naan,Breads,1.0,40.0,Delivery
+1154,C131,2026-10-12 13:25:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1154,C131,2026-10-12 13:25:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1154,C131,2026-10-12 13:25:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1154,C131,2026-10-12 13:25:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1155,C017,2026-10-05 19:29:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1155,C017,2026-10-05 19:29:00,Ice Cream,Desserts,3.0,110.0,Delivery
+1155,C017,2026-10-05 19:29:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1156,C067,2026-10-04 20:46:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1156,C067,2026-10-04 20:46:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1156,C067,2026-10-04 20:46:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1157,C115,2026-10-01 20:26:00,Fresh Lime Soda,Beverages,4.0,70.0,Takeaway
+1157,C115,2026-10-01 20:26:00,Gulab Jamun,Desserts,4.0,90.0,Takeaway
+1157,C115,2026-10-01 20:26:00,Paneer Tikka,Starters,2.0,250.0,Takeaway
+1158,C102,2026-10-23 11:56:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1158,C102,2026-10-23 11:56:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1158,C102,2026-10-23 11:56:00,Butter Chicken,Main Course,3.0,340.0,Dine-In
+1159,C142,2026-10-24 18:35:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1159,C142,2026-10-24 18:35:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1160,C002,2026-10-09 13:21:00,Veg Biryani,Main Course,1.0,240.0,Delivery
+1160,C002,2026-10-09 13:21:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1160,C002,2026-10-09 13:21:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1161,C137,2026-10-04 20:33:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1162,C020,2026-10-25 18:03:00,Masala Chai,Beverages,2.0,50.0,Takeaway
+1162,C020,2026-10-25 18:03:00,Chicken Biryani,Main Course,2.0,300.0,Takeaway
+1162,C020,2026-10-25 18:03:00,Gulab Jamun,Desserts,1.0,90.0,Takeaway
+1162,C020,2026-10-25 18:03:00,Butter Chicken,Main Course,2.0,340.0,Takeaway
+1163,C145,2026-10-29 16:25:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1163,C145,2026-10-29 16:25:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1163,C145,2026-10-29 16:25:00,Masala Chai,Beverages,1.0,50.0,Delivery
+1164,C046,2026-10-17 11:42:00,Veg Spring Roll,Starters,4.0,160.0,Delivery
+1165,C021,2026-10-19 20:54:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1166,C045,2026-10-26 22:57:00,Veg Biryani,Main Course,3.0,240.0,Delivery
+1167,C084,2026-10-17 10:57:00,Dal Makhani,Main Course,1.0,220.0,Dine-In
+1168,C039,2026-10-28 11:05:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1168,C039,2026-10-28 11:05:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1169,C101,2026-10-21 19:30:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1169,C101,2026-10-21 19:30:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1169,C101,2026-10-21 19:30:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1169,C101,2026-10-21 19:30:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1170,C032,2026-10-03 16:43:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1170,C032,2026-10-03 16:43:00,Chicken Wings,Starters,1.0,280.0,Delivery
+1170,C032,2026-10-03 16:43:00,Cold Coffee,Beverages,4.0,120.0,Delivery
+1171,C065,2026-10-01 21:18:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1171,C065,2026-10-01 21:18:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1171,C065,2026-10-01 21:18:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1171,C065,2026-10-01 21:18:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1172,C069,2026-10-30 09:58:00,Fresh Lime Soda,Beverages,2.0,70.0,Takeaway
+1173,C122,2026-10-29 14:59:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1173,C122,2026-10-29 14:59:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1173,C122,2026-10-29 14:59:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1174,C109,2026-10-22 12:22:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1174,C109,2026-10-22 12:22:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1175,C129,2026-10-28 18:34:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1175,C129,2026-10-28 18:34:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1176,C028,2026-10-05 17:35:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1176,C028,2026-10-05 17:35:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1176,C028,2026-10-05 17:35:00,Butter Naan,Breads,2.0,40.0,Delivery
+1177,C012,2026-10-06 11:18:00,Veg Spring Roll,Starters,2.0,160.0,Takeaway
+1177,C012,2026-10-06 11:18:00,Garlic Naan,Breads,1.0,50.0,Takeaway
+1177,C012,2026-10-06 11:18:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1177,C012,2026-10-06 11:18:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1178,C082,2026-10-28 20:46:00,Veg Spring Roll,Starters,3.0,160.0,Takeaway
+1179,C031,2026-10-23 08:31:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1179,C031,2026-10-23 08:31:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1180,C047,2026-10-03 23:07:00,Cold Coffee,Beverages,4.0,120.0,Delivery
+1180,C047,2026-10-03 23:07:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1180,C047,2026-10-03 23:07:00,Masala Chai,Beverages,3.0,50.0,Delivery
+1180,C047,2026-10-03 23:07:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1181,C035,2026-10-02 10:22:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1181,C035,2026-10-02 10:22:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1182,C123,2026-10-06 12:39:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1182,C123,2026-10-06 12:39:00,Butter Chicken,Main Course,2.0,340.0,Dine-In
+1183,C120,2026-10-30 12:53:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1184,C023,2026-10-30 16:35:00,Cold Coffee,Beverages,4.0,120.0,Takeaway
+1184,C023,2026-10-30 16:35:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1184,C023,2026-10-30 16:35:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1184,C023,2026-10-30 16:35:00,Paneer Tikka,Starters,3.0,250.0,Takeaway
+1185,C034,2026-10-18 20:10:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1186,C064,2026-10-29 21:56:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1186,C064,2026-10-29 21:56:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1186,C064,2026-10-29 21:56:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1187,C145,2026-10-26 09:28:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1187,C145,2026-10-26 09:28:00,Dal Makhani,Main Course,3.0,220.0,Dine-In
+1187,C145,2026-10-26 09:28:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1188,C094,2026-10-09 10:18:00,Cold Coffee,Beverages,3.0,120.0,Takeaway
+1189,C013,2026-10-18 17:35:00,Veg Spring Roll,Starters,2.0,160.0,Delivery
+1189,C013,2026-10-18 17:35:00,Masala Chai,Beverages,1.0,50.0,Delivery
+1189,C013,2026-10-18 17:35:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1189,C013,2026-10-18 17:35:00,Chicken Wings,Starters,4.0,280.0,Delivery
+1190,C007,2026-10-04 19:27:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1190,C007,2026-10-04 19:27:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1190,C007,2026-10-04 19:27:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1190,C007,2026-10-04 19:27:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1191,C053,2026-10-12 10:09:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1192,C012,2026-10-22 12:28:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1192,C012,2026-10-22 12:28:00,Butter Chicken,Main Course,2.0,340.0,Dine-In
+1192,C012,2026-10-22 12:28:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1192,C012,2026-10-22 12:28:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1193,C134,2026-10-07 08:52:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1193,C134,2026-10-07 08:52:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1193,C134,2026-10-07 08:52:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1194,C045,2026-10-22 11:39:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1195,C028,2026-10-22 14:58:00,Paneer Tikka,Starters,3.0,250.0,Delivery
+1195,C028,2026-10-22 14:58:00,Veg Spring Roll,Starters,3.0,160.0,Delivery
+1195,C028,2026-10-22 14:58:00,Veg Biryani,Main Course,1.0,240.0,Delivery
+1196,C049,2026-10-15 21:23:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1197,C015,2026-10-29 22:45:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1197,C015,2026-10-29 22:45:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1198,C077,2026-10-18 20:27:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1199,C102,2026-10-22 08:05:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1199,C102,2026-10-22 08:05:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1199,C102,2026-10-22 08:05:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1200,C065,2026-10-11 18:58:00,Butter Naan,Breads,4.0,40.0,Delivery
+1200,C065,2026-10-11 18:58:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1201,C104,2026-10-02 17:47:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1202,C093,2026-10-07 14:19:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1202,C093,2026-10-07 14:19:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1203,C114,2026-10-01 11:44:00,Fresh Lime Soda,Beverages,1.0,70.0,Delivery
+1203,C114,2026-10-01 11:44:00,Chicken Wings,Starters,4.0,280.0,Delivery
+1203,C114,2026-10-01 11:44:00,Veg Biryani,Main Course,1.0,240.0,Delivery
+1204,C139,2026-10-24 18:34:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1204,C139,2026-10-24 18:34:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1204,C139,2026-10-24 18:34:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1205,C109,2026-10-29 12:47:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1205,C109,2026-10-29 12:47:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1205,C109,2026-10-29 12:47:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1206,C024,2026-10-24 18:02:00,Veg Spring Roll,Starters,4.0,160.0,Takeaway
+1207,C054,2026-10-06 10:09:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1207,C054,2026-10-06 10:09:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1207,C054,2026-10-06 10:09:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1208,C141,2026-10-23 18:29:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1209,C031,2026-10-10 19:58:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1209,C031,2026-10-10 19:58:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1210,C065,2026-10-25 11:16:00,Dal Makhani,Main Course,2.0,220.0,Delivery
+1210,C065,2026-10-25 11:16:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1210,C065,2026-10-25 11:16:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1210,C065,2026-10-25 11:16:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1211,C073,2026-10-13 11:19:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1211,C073,2026-10-13 11:19:00,Butter Naan,Breads,4.0,40.0,Delivery
+1211,C073,2026-10-13 11:19:00,Garlic Naan,Breads,3.0,50.0,Delivery
+1212,C078,2026-10-26 18:33:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1212,C078,2026-10-26 18:33:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1212,C078,2026-10-26 18:33:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1212,C078,2026-10-26 18:33:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1213,C064,2026-10-30 17:11:00,,Desserts,,,Dine-In
+1213,C064,2026-10-30 17:11:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1213,C064,2026-10-30 17:11:00,,Beverages,,,Dine-In
+1214,C114,2026-10-16 23:50:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1214,C114,2026-10-16 23:50:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1214,C114,2026-10-16 23:50:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1214,C114,2026-10-16 23:50:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1215,C059,2026-10-01 12:47:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1215,C059,2026-10-01 12:47:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1216,C029,2026-10-24 12:09:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1216,C029,2026-10-24 12:09:00,Chicken Wings,Starters,1.0,280.0,Delivery
+1216,C029,2026-10-24 12:09:00,Butter Naan,Breads,1.0,40.0,Delivery
+1216,C029,2026-10-24 12:09:00,Chicken Biryani,Main Course,3.0,300.0,Delivery
+1217,C071,2026-10-27 18:33:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1217,C071,2026-10-27 18:33:00,Dal Makhani,Main Course,1.0,220.0,Dine-In
+1217,C071,2026-10-27 18:33:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1217,C071,2026-10-27 18:33:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1218,C108,2026-10-19 18:46:00,Chicken Biryani,Main Course,2.0,300.0,Takeaway
+1219,C065,2026-10-19 10:09:00,Chicken Biryani,Main Course,1.0,300.0,Takeaway
+1219,C065,2026-10-19 10:09:00,Masala Chai,Beverages,4.0,50.0,Takeaway
+1219,C065,2026-10-19 10:09:00,Gulab Jamun,Desserts,3.0,90.0,Takeaway
+1220,C049,2026-10-09 16:00:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1221,C111,2026-10-15 20:58:00,Chicken Biryani,Main Course,1.0,300.0,Delivery
+1221,C111,2026-10-15 20:58:00,Ice Cream,Desserts,3.0,110.0,Delivery
+1222,C111,2026-10-20 08:32:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1223,C138,2026-10-18 19:18:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1223,C138,2026-10-18 19:18:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1223,C138,2026-10-18 19:18:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1224,C107,2026-10-25 13:59:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1224,C107,2026-10-25 13:59:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1225,C114,2026-10-28 11:14:00,Cold Coffee,Beverages,3.0,120.0,Dine-In
+1225,C114,2026-10-28 11:14:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1226,C121,2026-10-01 21:20:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1227,C140,2026-10-28 16:41:00,Chicken Wings,Starters,2.0,280.0,Takeaway
+1228,C058,2026-10-07 12:48:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1229,C057,2026-10-22 12:46:00,Ice Cream,Desserts,2.0,110.0,Takeaway
+1230,C033,2026-10-30 08:42:00,Veg Biryani,Main Course,3.0,240.0,Delivery
+1230,C033,2026-10-30 08:42:00,Butter Naan,Breads,2.0,40.0,Delivery
+1230,C033,2026-10-30 08:42:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1231,C147,2026-10-22 11:27:00,Dal Makhani,Main Course,3.0,220.0,Takeaway
+1231,C147,2026-10-22 11:27:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1231,C147,2026-10-22 11:27:00,Veg Biryani,Main Course,2.0,240.0,Takeaway
+1232,C129,2026-10-02 09:46:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1233,C049,2026-10-07 16:48:00,Cold Coffee,Beverages,4.0,120.0,Takeaway
+1233,C049,2026-10-07 16:48:00,Veg Spring Roll,Starters,1.0,160.0,Takeaway
+1233,C049,2026-10-07 16:48:00,Chicken Biryani,Main Course,3.0,300.0,Takeaway
+1234,C108,2026-10-19 12:06:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1234,C108,2026-10-19 12:06:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1234,C108,2026-10-19 12:06:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1235,C104,2026-10-04 20:51:00,Paneer Tikka,Starters,3.0,250.0,Takeaway
+1236,C060,2026-10-20 09:30:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1236,C060,2026-10-20 09:30:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1236,C060,2026-10-20 09:30:00,Veg Biryani,Main Course,4.0,240.0,Delivery
+1237,C062,2026-10-07 18:51:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1238,C062,2026-10-10 13:12:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1238,C062,2026-10-10 13:12:00,Paneer Tikka,Starters,1.0,250.0,Delivery
+1238,C062,2026-10-10 13:12:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1238,C062,2026-10-10 13:12:00,Chicken Biryani,Main Course,2.0,300.0,Delivery
+1239,C140,2026-10-19 20:17:00,Cold Coffee,Beverages,2.0,120.0,Delivery
+1240,C013,2026-10-27 18:21:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1241,C022,2026-10-06 16:31:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1242,C075,2026-10-01 17:37:00,Dal Makhani,Main Course,3.0,220.0,Dine-In
+1242,C075,2026-10-01 17:37:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1242,C075,2026-10-01 17:37:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1242,C075,2026-10-01 17:37:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1243,C048,2026-10-21 12:37:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1243,C048,2026-10-21 12:37:00,Masala Chai,Beverages,1.0,50.0,Dine-In
+1243,C048,2026-10-21 12:37:00,Butter Naan,Breads,1.0,40.0,Dine-In
+1243,C048,2026-10-21 12:37:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1244,C019,2026-10-11 18:42:00,Cold Coffee,Beverages,2.0,120.0,Takeaway
+1244,C019,2026-10-11 18:42:00,Gulab Jamun,Desserts,4.0,90.0,Takeaway
+1244,C019,2026-10-11 18:42:00,Paneer Tikka,Starters,2.0,250.0,Takeaway
+1244,C019,2026-10-11 18:42:00,Veg Biryani,Main Course,1.0,240.0,Takeaway
+1245,C014,2026-10-11 22:17:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1245,C014,2026-10-11 22:17:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1246,C065,2026-10-07 18:14:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1246,C065,2026-10-07 18:14:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1247,C131,2026-10-28 17:29:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1247,C131,2026-10-28 17:29:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1248,C128,2026-10-20 20:15:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1248,C128,2026-10-20 20:15:00,Veg Spring Roll,Starters,3.0,160.0,Takeaway
+1248,C128,2026-10-20 20:15:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1249,C119,2026-10-25 16:30:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1249,C119,2026-10-25 16:30:00,Butter Naan,Breads,2.0,40.0,Delivery
+1250,C071,2026-10-12 11:58:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1250,C071,2026-10-12 11:58:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1251,C136,2026-10-29 12:59:00,Ice Cream,Desserts,4.0,110.0,Delivery
+1251,C136,2026-10-29 12:59:00,Fresh Lime Soda,Beverages,2.0,70.0,Delivery
+1251,C136,2026-10-29 12:59:00,Butter Naan,Breads,4.0,40.0,Delivery
+1251,C136,2026-10-29 12:59:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1252,C010,2026-10-08 12:23:00,Chicken Wings,Starters,1.0,280.0,Takeaway
+1252,C010,2026-10-08 12:23:00,Dal Makhani,Main Course,4.0,220.0,Takeaway
+1252,C010,2026-10-08 12:23:00,Veg Biryani,Main Course,2.0,240.0,Takeaway
+1252,C010,2026-10-08 12:23:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1253,C145,2026-10-15 11:14:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1253,C145,2026-10-15 11:14:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1253,C145,2026-10-15 11:14:00,Ice Cream,Desserts,1.0,110.0,Takeaway
+1254,C048,2026-10-18 11:38:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1255,C132,2026-10-28 17:24:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1255,C132,2026-10-28 17:24:00,Dal Makhani,Main Course,1.0,220.0,Delivery
+1255,C132,2026-10-28 17:24:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1256,C032,2026-10-03 21:58:00,,Breads,,,Dine-In
+1256,C032,2026-10-03 21:58:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1256,C032,2026-10-03 21:58:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1257,C020,2026-10-20 19:53:00,Dal Makhani,Main Course,1.0,220.0,Dine-In
+1258,C016,2026-10-23 17:17:00,Ice Cream,Desserts,4.0,110.0,Takeaway
+1258,C016,2026-10-23 17:17:00,Veg Biryani,Main Course,2.0,240.0,Takeaway
+1259,C108,2026-10-21 09:51:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1260,C136,2026-10-08 21:11:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1260,C136,2026-10-08 21:11:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1260,C136,2026-10-08 21:11:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1260,C136,2026-10-08 21:11:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1261,C054,2026-10-08 19:34:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1261,C054,2026-10-08 19:34:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1261,C054,2026-10-08 19:34:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1261,C054,2026-10-08 19:34:00,,Desserts,,,Dine-In
+1262,C119,2026-10-05 20:03:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1263,C028,2026-10-01 10:47:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1263,C028,2026-10-01 10:47:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1263,C028,2026-10-01 10:47:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1264,C034,2026-10-03 12:53:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1264,C034,2026-10-03 12:53:00,Garlic Naan,Breads,4.0,50.0,Takeaway
+1265,C105,2026-10-21 12:46:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1265,C105,2026-10-21 12:46:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1265,C105,2026-10-21 12:46:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1266,C084,2026-10-17 20:20:00,Ice Cream,Desserts,4.0,110.0,Delivery
+1267,C108,2026-10-15 08:26:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1267,C108,2026-10-15 08:26:00,,Main Course,,,Delivery
+1267,C108,2026-10-15 08:26:00,Gulab Jamun,Desserts,1.0,90.0,Delivery
+1267,C108,2026-10-15 08:26:00,Masala Chai,Beverages,2.0,50.0,Delivery
+1268,C055,2026-10-05 11:44:00,Masala Chai,Beverages,1.0,50.0,Takeaway
+1269,C123,2026-10-08 12:53:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1269,C123,2026-10-08 12:53:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1270,C101,2026-10-15 17:56:00,Garlic Naan,Breads,1.0,50.0,Takeaway
+1270,C101,2026-10-15 17:56:00,Butter Naan,Breads,2.0,40.0,Takeaway
+1271,C081,2026-10-16 17:05:00,Chicken Biryani,Main Course,3.0,300.0,Takeaway
+1271,C081,2026-10-16 17:05:00,Gulab Jamun,Desserts,1.0,90.0,Takeaway
+1272,C026,2026-10-15 17:19:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1272,C026,2026-10-15 17:19:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1272,C026,2026-10-15 17:19:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1273,C100,2026-10-03 15:47:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1273,C100,2026-10-03 15:47:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1273,C100,2026-10-03 15:47:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1273,C100,2026-10-03 15:47:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1274,C068,2026-10-08 11:27:00,Dal Makhani,Main Course,4.0,220.0,Delivery
+1274,C068,2026-10-08 11:27:00,Ice Cream,Desserts,3.0,110.0,Delivery
+1274,C068,2026-10-08 11:27:00,Butter Chicken,Main Course,4.0,340.0,Delivery
+1274,C068,2026-10-08 11:27:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1275,C115,2026-10-07 18:56:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1275,C115,2026-10-07 18:56:00,Paneer Tikka,Starters,1.0,250.0,Dine-In
+1276,C094,2026-10-06 21:45:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1277,C043,2026-10-17 18:03:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1277,C043,2026-10-17 18:03:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1277,C043,2026-10-17 18:03:00,Fresh Lime Soda,Beverages,4.0,70.0,Dine-In
+1278,C076,2026-10-23 16:17:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1279,C112,2026-10-15 19:13:00,Veg Biryani,Main Course,1.0,240.0,Delivery
+1279,C112,2026-10-15 19:13:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1280,C135,2026-10-23 12:01:00,Masala Chai,Beverages,4.0,50.0,Delivery
+1280,C135,2026-10-23 12:01:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1281,C048,2026-10-10 18:12:00,Chicken Wings,Starters,3.0,280.0,Takeaway
+1281,C048,2026-10-10 18:12:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1282,C063,2026-10-29 13:35:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1283,C143,2026-10-04 18:51:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1283,C143,2026-10-04 18:51:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1284,C030,2026-10-13 13:33:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1284,C030,2026-10-13 13:33:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1285,C079,2026-10-25 11:31:00,Chicken Wings,Starters,1.0,280.0,Delivery
+1285,C079,2026-10-25 11:31:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1286,C095,2026-10-07 11:41:00,Butter Naan,Breads,4.0,40.0,Delivery
+1286,C095,2026-10-07 11:41:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1286,C095,2026-10-07 11:41:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1286,C095,2026-10-07 11:41:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1287,C107,2026-10-24 20:54:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1287,C107,2026-10-24 20:54:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1287,C107,2026-10-24 20:54:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1288,C019,2026-10-26 12:49:00,Chicken Biryani,Main Course,2.0,300.0,Takeaway
+1289,C028,2026-10-25 08:09:00,Chicken Wings,Starters,3.0,280.0,Takeaway
+1289,C028,2026-10-25 08:09:00,Chicken Biryani,Main Course,1.0,300.0,Takeaway
+1289,C028,2026-10-25 08:09:00,Veg Spring Roll,Starters,4.0,160.0,Takeaway
+1289,C028,2026-10-25 08:09:00,Dal Makhani,Main Course,2.0,220.0,Takeaway
+1290,C089,2026-10-02 16:08:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1291,C057,2026-10-14 15:14:00,Paneer Tikka,Starters,2.0,250.0,Delivery
+1291,C057,2026-10-14 15:14:00,Chicken Wings,Starters,4.0,280.0,Delivery
+1291,C057,2026-10-14 15:14:00,Garlic Naan,Breads,1.0,50.0,Delivery
+1291,C057,2026-10-14 15:14:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1292,C022,2026-10-14 19:35:00,Gulab Jamun,Desserts,4.0,90.0,Takeaway
+1292,C022,2026-10-14 19:35:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1292,C022,2026-10-14 19:35:00,Garlic Naan,Breads,4.0,50.0,Takeaway
+1292,C022,2026-10-14 19:35:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1293,C140,2026-10-16 21:22:00,Masala Chai,Beverages,3.0,50.0,Takeaway
+1293,C140,2026-10-16 21:22:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1293,C140,2026-10-16 21:22:00,Chicken Biryani,Main Course,1.0,300.0,Takeaway
+1294,C031,2026-10-03 14:18:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1294,C031,2026-10-03 14:18:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1295,C089,2026-10-08 10:19:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1295,C089,2026-10-08 10:19:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1295,C089,2026-10-08 10:19:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1295,C089,2026-10-08 10:19:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1296,C084,2026-10-06 18:47:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1296,C084,2026-10-06 18:47:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1296,C084,2026-10-06 18:47:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1297,C141,2026-10-13 09:21:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1297,C141,2026-10-13 09:21:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1297,C141,2026-10-13 09:21:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1298,C020,2026-10-24 10:38:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1298,C020,2026-10-24 10:38:00,Butter Chicken,Main Course,1.0,340.0,Delivery
+1298,C020,2026-10-24 10:38:00,Paneer Tikka,Starters,3.0,250.0,Delivery
+1299,C072,2026-10-27 11:46:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1299,C072,2026-10-27 11:46:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1299,C072,2026-10-27 11:46:00,,Beverages,,,Dine-In
+1300,C121,2026-10-13 19:53:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1300,C121,2026-10-13 19:53:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1300,C121,2026-10-13 19:53:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1300,C121,2026-10-13 19:53:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1301,C029,2026-10-19 10:13:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1301,C029,2026-10-19 10:13:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1302,C064,2026-10-23 16:06:00,Veg Biryani,Main Course,4.0,240.0,Takeaway
+1302,C064,2026-10-23 16:06:00,Ice Cream,Desserts,1.0,110.0,Takeaway
+1303,C004,2026-10-17 18:53:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1304,C078,2026-10-25 15:59:00,Masala Chai,Beverages,2.0,50.0,Delivery
+1304,C078,2026-10-25 15:59:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1304,C078,2026-10-25 15:59:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1305,C108,2026-10-12 20:17:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1305,C108,2026-10-12 20:17:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1305,C108,2026-10-12 20:17:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1306,C101,2026-10-30 18:32:00,Butter Naan,Breads,3.0,40.0,Dine-In
+1306,C101,2026-10-30 18:32:00,Gulab Jamun,Desserts,2.0,90.0,Dine-In
+1306,C101,2026-10-30 18:32:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1306,C101,2026-10-30 18:32:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1307,C117,2026-10-12 10:02:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1307,C117,2026-10-12 10:02:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1308,C127,2026-10-06 16:54:00,Dal Makhani,Main Course,1.0,220.0,Takeaway
+1308,C127,2026-10-06 16:54:00,Gulab Jamun,Desserts,4.0,90.0,Takeaway
+1308,C127,2026-10-06 16:54:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1309,C074,2026-10-27 18:14:00,Paneer Tikka,Starters,4.0,250.0,Takeaway
+1309,C074,2026-10-27 18:14:00,Veg Spring Roll,Starters,3.0,160.0,Takeaway
+1309,C074,2026-10-27 18:14:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1310,C085,2026-10-03 10:22:00,Chicken Wings,Starters,3.0,280.0,Takeaway
+1310,C085,2026-10-03 10:22:00,Ice Cream,Desserts,4.0,110.0,Takeaway
+1310,C085,2026-10-03 10:22:00,Dal Makhani,Main Course,2.0,220.0,Takeaway
+1311,C113,2026-10-25 21:24:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1311,C113,2026-10-25 21:24:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1312,C028,2026-10-18 18:56:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1312,C028,2026-10-18 18:56:00,Butter Chicken,Main Course,4.0,340.0,Dine-In
+1312,C028,2026-10-18 18:56:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1312,C028,2026-10-18 18:56:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1313,C013,2026-10-05 10:53:00,Dal Makhani,Main Course,2.0,220.0,Takeaway
+1313,C013,2026-10-05 10:53:00,Masala Chai,Beverages,2.0,50.0,Takeaway
+1314,C118,2026-10-13 12:40:00,Ice Cream,Desserts,3.0,110.0,Takeaway
+1314,C118,2026-10-13 12:40:00,Paneer Tikka,Starters,4.0,250.0,Takeaway
+1314,C118,2026-10-13 12:40:00,Garlic Naan,Breads,3.0,50.0,Takeaway
+1315,C126,2026-10-17 22:34:00,Paneer Tikka,Starters,1.0,250.0,Dine-In
+1315,C126,2026-10-17 22:34:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1315,C126,2026-10-17 22:34:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1316,C085,2026-10-25 15:05:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1316,C085,2026-10-25 15:05:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1316,C085,2026-10-25 15:05:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1316,C085,2026-10-25 15:05:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1317,C115,2026-10-15 09:41:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1317,C115,2026-10-15 09:41:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1317,C115,2026-10-15 09:41:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1317,C115,2026-10-15 09:41:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1318,C117,2026-10-28 18:40:00,Chicken Biryani,Main Course,1.0,300.0,Dine-In
+1318,C117,2026-10-28 18:40:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1319,C019,2026-10-18 19:51:00,Chicken Biryani,Main Course,4.0,300.0,Dine-In
+1320,C073,2026-10-01 13:32:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1320,C073,2026-10-01 13:32:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1320,C073,2026-10-01 13:32:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1320,C073,2026-10-01 13:32:00,Dal Makhani,Main Course,2.0,220.0,Dine-In
+1321,C018,2026-10-28 08:08:00,Veg Spring Roll,Starters,1.0,160.0,Takeaway
+1321,C018,2026-10-28 08:08:00,Veg Biryani,Main Course,4.0,240.0,Takeaway
+1321,C018,2026-10-28 08:08:00,Butter Chicken,Main Course,3.0,340.0,Takeaway
+1321,C018,2026-10-28 08:08:00,Ice Cream,Desserts,2.0,110.0,Takeaway
+1322,C111,2026-10-02 20:03:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1322,C111,2026-10-02 20:03:00,Dal Makhani,Main Course,1.0,220.0,Delivery
+1323,C012,2026-10-05 12:55:00,Chicken Wings,Starters,1.0,280.0,Dine-In
+1323,C012,2026-10-05 12:55:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1323,C012,2026-10-05 12:55:00,Dal Makhani,Main Course,3.0,220.0,Dine-In
+1324,C089,2026-10-18 13:54:00,Paneer Tikka,Starters,4.0,250.0,Dine-In
+1324,C089,2026-10-18 13:54:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1325,C069,2026-10-19 15:59:00,Butter Chicken,Main Course,3.0,340.0,Dine-In
+1325,C069,2026-10-19 15:59:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1325,C069,2026-10-19 15:59:00,Veg Spring Roll,Starters,3.0,160.0,Dine-In
+1326,C049,2026-10-25 21:53:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1326,C049,2026-10-25 21:53:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1326,C049,2026-10-25 21:53:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1326,C049,2026-10-25 21:53:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1327,C134,2026-10-29 13:54:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1327,C134,2026-10-29 13:54:00,Butter Naan,Breads,3.0,40.0,Takeaway
+1327,C134,2026-10-29 13:54:00,,Starters,,,Takeaway
+1327,C134,2026-10-29 13:54:00,Dal Makhani,Main Course,3.0,220.0,Takeaway
+1328,C072,2026-10-19 21:31:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1328,C072,2026-10-19 21:31:00,Gulab Jamun,Desserts,3.0,90.0,Delivery
+1328,C072,2026-10-19 21:31:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1329,C087,2026-10-09 20:41:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1329,C087,2026-10-09 20:41:00,Gulab Jamun,Desserts,2.0,90.0,Takeaway
+1330,C112,2026-10-29 21:30:00,Paneer Tikka,Starters,3.0,250.0,Delivery
+1330,C112,2026-10-29 21:30:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1330,C112,2026-10-29 21:30:00,Garlic Naan,Breads,3.0,50.0,Delivery
+1330,C112,2026-10-29 21:30:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1331,C047,2026-10-13 12:23:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1332,C038,2026-10-14 23:53:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1333,C080,2026-10-26 09:03:00,Veg Spring Roll,Starters,2.0,160.0,Takeaway
+1333,C080,2026-10-26 09:03:00,Masala Chai,Beverages,1.0,50.0,Takeaway
+1334,C066,2026-10-09 17:21:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1334,C066,2026-10-09 17:21:00,Garlic Naan,Breads,3.0,50.0,Delivery
+1335,C059,2026-10-01 19:40:00,Dal Makhani,Main Course,1.0,220.0,Delivery
+1335,C059,2026-10-01 19:40:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1335,C059,2026-10-01 19:40:00,Cold Coffee,Beverages,3.0,120.0,Delivery
+1335,C059,2026-10-01 19:40:00,Fresh Lime Soda,Beverages,1.0,70.0,Delivery
+1336,C079,2026-10-18 20:50:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1336,C079,2026-10-18 20:50:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1337,C107,2026-10-29 19:13:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1337,C107,2026-10-29 19:13:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1337,C107,2026-10-29 19:13:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1338,C083,2026-10-22 17:54:00,Butter Chicken,Main Course,2.0,340.0,Dine-In
+1338,C083,2026-10-22 17:54:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1339,C122,2026-10-17 13:22:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1339,C122,2026-10-17 13:22:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1340,C065,2026-10-19 17:20:00,Chicken Biryani,Main Course,3.0,300.0,Delivery
+1340,C065,2026-10-19 17:20:00,Fresh Lime Soda,Beverages,4.0,70.0,Delivery
+1340,C065,2026-10-19 17:20:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1340,C065,2026-10-19 17:20:00,Butter Chicken,Main Course,3.0,340.0,Delivery
+1341,C108,2026-10-15 20:44:00,Masala Chai,Beverages,3.0,50.0,Dine-In
+1341,C108,2026-10-15 20:44:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1342,C058,2026-10-06 19:05:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1342,C058,2026-10-06 19:05:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1342,C058,2026-10-06 19:05:00,Butter Naan,Breads,2.0,40.0,Dine-In
+1343,C097,2026-10-16 23:54:00,Ice Cream,Desserts,3.0,110.0,Dine-In
+1344,C135,2026-10-09 13:13:00,Chicken Wings,Starters,3.0,280.0,Takeaway
+1344,C135,2026-10-09 13:13:00,Cold Coffee,Beverages,3.0,120.0,Takeaway
+1345,C051,2026-10-12 18:40:00,Veg Biryani,Main Course,4.0,240.0,Takeaway
+1345,C051,2026-10-12 18:40:00,Butter Naan,Breads,2.0,40.0,Takeaway
+1346,C074,2026-10-25 18:42:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1347,C137,2026-10-04 21:52:00,Dal Makhani,Main Course,4.0,220.0,Takeaway
+1347,C137,2026-10-04 21:52:00,Chicken Wings,Starters,4.0,280.0,Takeaway
+1348,C101,2026-10-13 13:08:00,Masala Chai,Beverages,3.0,50.0,Delivery
+1349,C019,2026-10-26 21:24:00,Veg Biryani,Main Course,1.0,240.0,Takeaway
+1349,C019,2026-10-26 21:24:00,Chicken Biryani,Main Course,4.0,300.0,Takeaway
+1350,C063,2026-10-03 16:54:00,Chicken Wings,Starters,2.0,280.0,Delivery
+1350,C063,2026-10-03 16:54:00,Veg Spring Roll,Starters,4.0,160.0,Delivery
+1350,C063,2026-10-03 16:54:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1350,C063,2026-10-03 16:54:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1351,C092,2026-10-06 18:15:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1351,C092,2026-10-06 18:15:00,Veg Spring Roll,Starters,2.0,160.0,Takeaway
+1352,C142,2026-10-12 17:11:00,Veg Biryani,Main Course,3.0,240.0,Delivery
+1353,C081,2026-10-30 11:01:00,Butter Chicken,Main Course,1.0,340.0,Dine-In
+1353,C081,2026-10-30 11:01:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1353,C081,2026-10-30 11:01:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1354,C022,2026-10-18 13:58:00,Veg Spring Roll,Starters,1.0,160.0,Takeaway
+1355,C011,2026-10-15 16:57:00,Ice Cream,Desserts,1.0,110.0,Delivery
+1356,C035,2026-10-23 22:13:00,,Main Course,,,Takeaway
+1356,C035,2026-10-23 22:13:00,Fresh Lime Soda,Beverages,1.0,70.0,Takeaway
+1357,C098,2026-10-10 19:56:00,Garlic Naan,Breads,4.0,50.0,Delivery
+1358,C073,2026-10-02 17:10:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1358,C073,2026-10-02 17:10:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1358,C073,2026-10-02 17:10:00,Ice Cream,Desserts,4.0,110.0,Dine-In
+1358,C073,2026-10-02 17:10:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1359,C135,2026-10-09 13:37:00,Butter Chicken,Main Course,2.0,340.0,Delivery
+1360,C085,2026-10-25 12:23:00,Butter Chicken,Main Course,2.0,340.0,Dine-In
+1360,C085,2026-10-25 12:23:00,Fresh Lime Soda,Beverages,1.0,70.0,Dine-In
+1361,C126,2026-10-23 11:06:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1362,C088,2026-10-08 10:43:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1362,C088,2026-10-08 10:43:00,Veg Biryani,Main Course,1.0,240.0,Dine-In
+1362,C088,2026-10-08 10:43:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1363,C019,2026-10-26 19:53:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1363,C019,2026-10-26 19:53:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1363,C019,2026-10-26 19:53:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1363,C019,2026-10-26 19:53:00,Chicken Wings,Starters,2.0,280.0,Dine-In
+1364,C076,2026-10-02 08:27:00,Masala Chai,Beverages,1.0,50.0,Takeaway
+1365,C005,2026-10-11 21:12:00,Garlic Naan,Breads,3.0,50.0,Dine-In
+1365,C005,2026-10-11 21:12:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1366,C026,2026-10-29 09:28:00,Veg Spring Roll,Starters,2.0,160.0,Dine-In
+1367,C044,2026-10-12 15:47:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1368,C112,2026-10-26 14:41:00,,Main Course,,,Dine-In
+1369,C005,2026-10-29 15:50:00,Gulab Jamun,Desserts,1.0,90.0,Dine-In
+1369,C005,2026-10-29 15:50:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1370,C063,2026-10-25 13:40:00,Fresh Lime Soda,Beverages,4.0,70.0,Takeaway
+1371,C090,2026-10-17 13:22:00,Cold Coffee,Beverages,4.0,120.0,Dine-In
+1372,C124,2026-10-26 18:46:00,Masala Chai,Beverages,3.0,50.0,Delivery
+1372,C124,2026-10-26 18:46:00,Butter Chicken,Main Course,1.0,340.0,Delivery
+1372,C124,2026-10-26 18:46:00,Butter Naan,Breads,4.0,40.0,Delivery
+1373,C095,2026-10-12 11:22:00,Gulab Jamun,Desserts,4.0,90.0,Dine-In
+1373,C095,2026-10-12 11:22:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1373,C095,2026-10-12 11:22:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1373,C095,2026-10-12 11:22:00,Garlic Naan,Breads,4.0,50.0,Dine-In
+1374,C019,2026-10-13 11:56:00,Paneer Tikka,Starters,3.0,250.0,Dine-In
+1374,C019,2026-10-13 11:56:00,Chicken Wings,Starters,4.0,280.0,Dine-In
+1374,C019,2026-10-13 11:56:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1374,C019,2026-10-13 11:56:00,Veg Biryani,Main Course,3.0,240.0,Dine-In
+1375,C149,2026-10-08 11:48:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1376,C147,2026-10-04 17:12:00,Gulab Jamun,Desserts,4.0,90.0,Delivery
+1377,C116,2026-10-20 17:24:00,Chicken Biryani,Main Course,4.0,300.0,Delivery
+1377,C116,2026-10-20 17:24:00,Dal Makhani,Main Course,3.0,220.0,Delivery
+1377,C116,2026-10-20 17:24:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1377,C116,2026-10-20 17:24:00,Butter Naan,Breads,3.0,40.0,Delivery
+1378,C055,2026-10-20 13:44:00,Dal Makhani,Main Course,4.0,220.0,Delivery
+1378,C055,2026-10-20 13:44:00,Cold Coffee,Beverages,3.0,120.0,Delivery
+1378,C055,2026-10-20 13:44:00,Ice Cream,Desserts,2.0,110.0,Delivery
+1378,C055,2026-10-20 13:44:00,Veg Spring Roll,Starters,3.0,160.0,Delivery
+1379,C042,2026-10-10 21:08:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1379,C042,2026-10-10 21:08:00,Masala Chai,Beverages,4.0,50.0,Dine-In
+1379,C042,2026-10-10 21:08:00,Ice Cream,Desserts,1.0,110.0,Dine-In
+1380,C132,2026-10-06 11:29:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1380,C132,2026-10-06 11:29:00,Veg Biryani,Main Course,4.0,240.0,Dine-In
+1380,C132,2026-10-06 11:29:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1380,C132,2026-10-06 11:29:00,Cold Coffee,Beverages,3.0,120.0,Dine-In
+1381,C023,2026-10-17 21:31:00,Veg Spring Roll,Starters,1.0,160.0,Dine-In
+1381,C023,2026-10-17 21:31:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1381,C023,2026-10-17 21:31:00,Gulab Jamun,Desserts,3.0,90.0,Dine-In
+1382,C123,2026-10-27 11:38:00,Garlic Naan,Breads,2.0,50.0,Takeaway
+1382,C123,2026-10-27 11:38:00,Veg Biryani,Main Course,3.0,240.0,Takeaway
+1383,C137,2026-10-27 19:07:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1383,C137,2026-10-27 19:07:00,Masala Chai,Beverages,3.0,50.0,Delivery
+1383,C137,2026-10-27 19:07:00,Chicken Wings,Starters,3.0,280.0,Delivery
+1384,C048,2026-10-20 12:54:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1384,C048,2026-10-20 12:54:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1384,C048,2026-10-20 12:54:00,Chicken Wings,Starters,3.0,280.0,Dine-In
+1384,C048,2026-10-20 12:54:00,Ice Cream,Desserts,2.0,110.0,Dine-In
+1385,C108,2026-10-26 19:06:00,Paneer Tikka,Starters,2.0,250.0,Takeaway
+1385,C108,2026-10-26 19:06:00,Dal Makhani,Main Course,4.0,220.0,Takeaway
+1385,C108,2026-10-26 19:06:00,Fresh Lime Soda,Beverages,3.0,70.0,Takeaway
+1386,C078,2026-10-06 20:49:00,Garlic Naan,Breads,1.0,50.0,Dine-In
+1386,C078,2026-10-06 20:49:00,Butter Naan,Breads,4.0,40.0,Dine-In
+1386,C078,2026-10-06 20:49:00,Cold Coffee,Beverages,2.0,120.0,Dine-In
+1387,C069,2026-10-10 08:12:00,Cold Coffee,Beverages,1.0,120.0,Dine-In
+1387,C069,2026-10-10 08:12:00,Veg Spring Roll,Starters,4.0,160.0,Dine-In
+1387,C069,2026-10-10 08:12:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1387,C069,2026-10-10 08:12:00,Fresh Lime Soda,Beverages,2.0,70.0,Dine-In
+1388,C141,2026-10-27 18:35:00,Butter Chicken,Main Course,3.0,340.0,Dine-In
+1388,C141,2026-10-27 18:35:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1388,C141,2026-10-27 18:35:00,Chicken Biryani,Main Course,3.0,300.0,Dine-In
+1389,C140,2026-10-24 21:38:00,Dal Makhani,Main Course,3.0,220.0,Delivery
+1390,C126,2026-10-07 11:09:00,Butter Chicken,Main Course,1.0,340.0,Takeaway
+1390,C126,2026-10-07 11:09:00,Fresh Lime Soda,Beverages,4.0,70.0,Takeaway
+1391,C039,2026-10-17 16:05:00,Ice Cream,Desserts,4.0,110.0,Delivery
+1391,C039,2026-10-17 16:05:00,Chicken Wings,Starters,1.0,280.0,Delivery
+1391,C039,2026-10-17 16:05:00,Gulab Jamun,Desserts,2.0,90.0,Delivery
+1392,C114,2026-10-15 12:17:00,Butter Naan,Breads,1.0,40.0,Takeaway
+1393,C059,2026-10-05 18:52:00,Dal Makhani,Main Course,4.0,220.0,Dine-In
+1393,C059,2026-10-05 18:52:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1393,C059,2026-10-05 18:52:00,Paneer Tikka,Starters,1.0,250.0,Dine-In
+1393,C059,2026-10-05 18:52:00,Fresh Lime Soda,Beverages,3.0,70.0,Dine-In
+1394,C048,2026-10-19 19:28:00,Butter Chicken,Main Course,1.0,340.0,Delivery
+1394,C048,2026-10-19 19:28:00,Masala Chai,Beverages,3.0,50.0,Delivery
+1395,C102,2026-10-14 09:35:00,Veg Spring Roll,Starters,2.0,160.0,Delivery
+1395,C102,2026-10-14 09:35:00,Butter Naan,Breads,2.0,40.0,Delivery
+1396,C126,2026-10-12 18:09:00,Garlic Naan,Breads,2.0,50.0,Dine-In
+1396,C126,2026-10-12 18:09:00,Chicken Biryani,Main Course,2.0,300.0,Dine-In
+1397,C090,2026-10-06 13:25:00,Veg Biryani,Main Course,2.0,240.0,Dine-In
+1397,C090,2026-10-06 13:25:00,Masala Chai,Beverages,2.0,50.0,Dine-In
+1398,C062,2026-10-27 11:24:00,Fresh Lime Soda,Beverages,3.0,70.0,Delivery
+1398,C062,2026-10-27 11:24:00,Garlic Naan,Breads,2.0,50.0,Delivery
+1398,C062,2026-10-27 11:24:00,Veg Spring Roll,Starters,1.0,160.0,Delivery
+1398,C062,2026-10-27 11:24:00,Cold Coffee,Beverages,1.0,120.0,Delivery
+1399,C009,2026-10-15 18:09:00,Chicken Wings,Starters,2.0,280.0,Takeaway
+1399,C009,2026-10-15 18:09:00,Butter Naan,Breads,1.0,40.0,Takeaway
+1399,C009,2026-10-15 18:09:00,Veg Spring Roll,Starters,1.0,160.0,Takeaway
+1399,C009,2026-10-15 18:09:00,Gulab Jamun,Desserts,1.0,90.0,Takeaway
+1400,C073,2026-10-25 18:23:00,Garlic Naan,Breads,2.0,50.0,Delivery
